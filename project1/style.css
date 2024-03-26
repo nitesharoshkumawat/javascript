@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    padding: 0px;
+};
+
+div {
+    display: block;
+}
+
+.main {
+    height: 100px auto 100px;
+    width: 80%;
+   text-align: center;
+}
+
+.button {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+   display: inline-block;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green ;
+}
+
+#red {
+    background-color: red;
+}
+
+#grey {
+    background-color: grey;
+}
+
+
