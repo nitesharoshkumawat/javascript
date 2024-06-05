@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+.red{
+  color: red;
+}
+
+.blue{
+  color: blue;
+}
+
+.div {
+  /* background-color: pink; */
+  justify-content: center;
+  align-items: top;
+  height: 15rem;
+  display: flex;
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+  margin-top: 20px;
+};
+
+.btnStyle {
+  /* color: white;
+  background-color: blue; */
+  justify-content: center;
+  align-items: center;
+}
